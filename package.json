@@ -1,0 +1,14 @@
+{
+  "name": "leet",
+  "version": "1.0.0",
+  "description": "A store of my LeetCode practice problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Stephen Hyde",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}

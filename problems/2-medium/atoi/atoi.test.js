@@ -1,4 +1,4 @@
-const myAtoi = require('./m-atoi.js');
+const myAtoi = require('./atoi.js');
 
 test('works when all characters are digits', () => {
   const s = '42';

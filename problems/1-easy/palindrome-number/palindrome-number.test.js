@@ -1,4 +1,4 @@
-const isPalindrome = require('./e-palindrome-number.js');
+const isPalindrome = require('./palindrome-number.js');
 
 test('correctly identifies palidrome numbers', () => {
   const num1 = 121;

@@ -1,4 +1,4 @@
-const twoSum = require('./e-two-sum.js');
+const twoSum = require('./two-sum.js');
 
 test('finds indices of nums that add up to target', () => {
   const nums = [2, 7, 11, 15];

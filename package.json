@@ -4,7 +4,8 @@
   "description": "A store of my LeetCode practice problems",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "create": "node ./util/create-problem.js"
   },
   "author": "Stephen Hyde",
   "license": "ISC",
